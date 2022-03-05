@@ -1,7 +1,7 @@
 # MinedHackathon
 ### How to run on your local system
   1. Open any python enviroment of your choice
-  2. Download the code as a zip from these repo or you can also clone by ```git clone https://github.com/virajpatel10/MinedHackathon.git```
+  2. Download the code as a zip from these repo or you can also clone by ```git clone https://github.com/dhruvil-shah/MinedHackathon.git```
   3. Now upload the necessary utils files apart from the .ipynb file.
   4. Here a sample pdf file with name  ``Coronary Angioplasty.pdf`` is given.
   5. You can upload both audio and pdf file by running below code.
